@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# from https://linuxize.com/post/bash-if-else-statement/
 echo -n "Enter a number: "
 read VAR
 
